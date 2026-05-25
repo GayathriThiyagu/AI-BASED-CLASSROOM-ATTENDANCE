@@ -1,7 +1,7 @@
 # AI-based Classroom Attendance using Face Recognition
 
-### NAME:ISWARYA P
-### REG NO:212223230082
+### NAME: Gayathri T
+### REG NO:212223100007
 
 ## AIM
 To develop an AI-based classroom attendance system using face recognition.
